@@ -5,7 +5,7 @@ import { customElement } from 'lit/decorators/custom-element.js';
 export class TestElement extends LitElement {
     render() {
         return html`
-            <div>This is a test element45</div>
+            <div>This is a test element</div>
         `
     }
 }
